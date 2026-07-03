@@ -27,4 +27,4 @@ Tcl stands for Tool Command Language.
 - M17: Built-in functions
 - M18: Regex
 
-**Note : Constructive feedback is encouraged !**
+**Note : Constructive feedback is encouraged, Happy Learning !**
