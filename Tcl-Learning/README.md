@@ -8,7 +8,7 @@ Tcl stands for Tool Command Language.
 <br>`Engineer --> Tcl script --> EDA Tool --> Chip Design Results`
 
 ## Repo Outline - Topics Covered in Modules
-- M1: Basics
+- M1: Setup
 - M2: Commands
 - M3: Data Types
 - M4: Variables
