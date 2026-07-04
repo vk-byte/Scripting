@@ -1,4 +1,4 @@
-# Theory
+# Notes
 ## 1. Setup
 For a beginner starting to learn Tcl, below are the steps to setup Tcl. <br>
 To run Tcl locally, we need a text editor and Tcl interpreter. <br> 
