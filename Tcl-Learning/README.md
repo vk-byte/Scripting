@@ -13,18 +13,19 @@ Tcl stands for Tool Command Language.
 - M3: Data Types
 - M4: Variables
 - M5: Operators
-- M6: Decisions
-- M7: Loops
-- M8: Arrays
-- M9: Strings
-- M10: Lists
+- M6: Strings
+- M7: Decisions
+- M8: Loops
+- M9: Lists
+- M10: Arrays
 - M11: Dictionary
 - M12: Procedures
 - M13: Packages
 - M14: Namespaces
-- M15: File handling
-- M16: Error handling
-- M17: Built-in functions
-- M18: Regex
+- M15: File Handling
+- M16: Error Handling
+- M17: Useful Built-in Commands
+- M18: Regular Expressions
+- M19: VLSI Automation Examples
 
 **Note : Constructive feedback is encouraged, Happy Learning !**
