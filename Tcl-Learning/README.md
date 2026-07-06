@@ -9,7 +9,7 @@ Tcl stands for Tool Command Language.
 
 ## Repo Outline - Topics Covered in Modules
 - M1: Setup
-- M2: Commands
+- M2: Basic Commands
 - M3: Data Types
 - M4: Variables
 - M5: Operators
