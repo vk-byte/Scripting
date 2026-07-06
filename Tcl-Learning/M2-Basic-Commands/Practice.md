@@ -162,15 +162,4 @@ Output:
 Result is 30
 ```
 
-# VLSI Relevance
-
-Among all concepts in this module, the most frequently used in EDA scripts are:
-
-* `set`
-* `puts`
-* `expr`
-* command substitution `[ ]`
-* braces `{ }`
-* quotes `" "`
-
-You will see these in almost every Tcl script written for tools such as synthesis, STA, P&R and DFT.
+**Keep practicing, This is just the beginning !**
